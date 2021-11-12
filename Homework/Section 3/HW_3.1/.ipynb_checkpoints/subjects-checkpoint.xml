@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<subjects>
+  <subject id="CS">
+    <name>Computer Science</name>
+    <department>MATH</department>
+  </subject>
+  <subject id="MATH">
+    <name>Mathematics</name>
+    <department>MATH</department>
+  </subject>
+  <subject id="ENGL">
+    <name>English Literature</name>
+    <department>ENGL</department>
+  </subject>
+</subjects>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<school>
+
+  <subjects>
+    <subject id="CS">
+      <name>Computer Science</name>
+      <department>MATH</department>
+    </subject>
+    <subject id="MATH">
+      <name>Mathematics</name>
+      <department>MATH</department>
+    </subject>
+    <subject id="ENGL">
+      <name>English Literature</name>
+      <department>ENGL</department>
+    </subject>
+  </subjects>
+
+  <courses>
+    <course>
+      <subject>CS</subject>
+      <coursenum>110</coursenum>
+      <title>Computing with Digital Media</title>
+    </course>
+    <course>
+      <subject>CS</subject>
+      <coursenum>372</coursenum>
+      <title>Operating Systems</title>
+    </course>
+    <course>
+      <subject>MATH</subject>
+      <coursenum>210</coursenum>
+      <title>Proof Techniques</title>
+    </course>
+    <course>
+      <subject>ENGL</subject>
+      <coursenum>213</coursenum>
+      <title>Early British Literature</title>
+    </course>
+  </courses>
+
+</school>

@@ -1,0 +1,29 @@
+{
+  "subjects": [
+    {
+      "subject": "CS",
+      "name": "Computer Science",
+      "department": "MATH"
+    },
+    {
+      "subject": "DAEC",
+      "name": "Data Analytics (ECON)",
+      "department": "DA"
+    },
+    {
+      "subject": "MATH",
+      "name": "Mathematics",
+      "department": "MATH"
+    },
+    {
+      "subject": "ENGL",
+      "name": "English Literature",
+      "department": "ENGL"
+    },
+    {
+      "subject": "PHYS",
+      "name": "Physics and Astronomy",
+      "department": "PHYS"
+    }
+  ]
+}
